@@ -1,0 +1,59 @@
+    .bg-custom-1 {
+        background-color: #85144b;
+    }
+    
+    .bg-custom-2 {
+        background-image: linear-gradient(15deg, #391924 0%, #142553 100%);
+    }
+    
+    #webcoderskull {
+        position: absolute;
+        left: 0;
+        top: 50%;
+        padding: 0 20px;
+        width: 100%;
+        text-align: center;
+    }
+    
+    canvas {
+        height: 100vh;
+        background-color: #76525c;
+    }
+    
+    #webcoderskull h1 {
+        letter-spacing: 5px;
+        font-size: 5rem;
+        font-family: 'Roboto', sans-serif;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    
+    #webcoderskull p {
+        color: #142553;
+    }
+    
+    h4,
+    #name {
+        color: #76525c;
+    }
+    
+    #contactme {
+        background-color: #76525c;
+    }
+    
+    #contact-form button {
+        background-color: #76525c;
+        border: 0;
+    }
+    
+    .navbar-nav {
+        text-align: center;
+    }
+    
+    a.nav-item.nav-link.custom-link {
+        color: #76525c;
+    }
+    
+    .navbar-dark .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(118,82,92, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    }
